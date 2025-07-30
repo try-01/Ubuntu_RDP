@@ -26,7 +26,6 @@ on:
       CRP:
         description: 'Visit at http://remotedesktop.google.com/headless and, copy the command after authentication'
         required: false
-        default: 4/0AVMBsJjxAGp5zalxn9FI5y142x3Bvg6DoQ_ObhMlJPgonyPsBQMzEKMc-PEA3gu6L4e8AA
         type: string
 
 env:
