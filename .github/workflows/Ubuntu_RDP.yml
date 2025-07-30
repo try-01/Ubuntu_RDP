@@ -21,7 +21,7 @@ on:
       Pin:
         description: 'Enter a Pin (more or equal to 6 digits)'
         required: false
-        default: bisabisaajalu
+        default: 123456
         type: number
       CRP:
         description: 'Visit at http://remotedesktop.google.com/headless and, copy the command after authentication'
